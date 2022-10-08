@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a08ed695-afb0-4830-9c90-931091611d88/resourceGroups/appsvc_linux_centralus_basic2/providers/Microsoft.Web/sites/restarantapp",
+    "appService.deploySubpath": "."
+}
